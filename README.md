@@ -38,4 +38,6 @@ For this project, I used Jupyter Notebook and Tableau to perform an analysis on 
 
 - The majority of trips for all users(genders) occured from 7:00 AM to 9:00 AM and from 5:00 PM to 7:00 PM. 
 
-## Summary
+## Dashboard
+
+

@@ -1,7 +1,7 @@
 # Bikesharing
 
 ## Overview
-For this project, I used Jupyter Notebook and Tableau to perform an analysis on the Citi Bike program in New York City. Since I am considering starting a similar program in Des Moines, Iowa, I needed to figure out if this venture would be a success. 
+-For this project, I used Jupyter Notebook and Tableau to perform an analysis on the Citi Bike program in New York City. Since I am considering starting a  similar program in Des Moines, Iowa, I needed to figure out if this venture would be a success. 
 
 
 ## Results
@@ -40,4 +40,10 @@ For this project, I used Jupyter Notebook and Tableau to perform an analysis on 
 
 ## Summary
 
+- Based on my results, commuting hours during the weekdays see the highest number of rides. This shows that some people see this as an alternative to other sources of public transportation. Therefore, I believe Citi Bike services could be successful in Des Moines since I know the target customers are working professionals who commute during the week.
+
+### Additional Analysis
+
+- Weather data could show the impacts on the number of rides during hot and cold days.
+- Traffic data might also be useful in understanding which areas could see higher volumes of bike usage versus cars.
 

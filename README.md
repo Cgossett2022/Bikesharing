@@ -12,7 +12,7 @@
 
 - The Citi Bike program provided 2,344,224 rides.
 
-- The 
+- People with the longest rides were born in 1995 or later.
 
 
 <img width="1008" alt="checkout_times_for_all_users" src="https://user-images.githubusercontent.com/111243284/205420472-3977fe9c-46b4-4f57-9b76-9025cd3e2c74.png">

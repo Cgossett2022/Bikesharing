@@ -1,10 +1,17 @@
 # Bikesharing
 
 ## Overview
+
 - For this project, I used Jupyter Notebook and Tableau to perform an analysis on the Citi Bike program in New York City. Since I am considering starting a  similar program in Des Moines, Iowa, I needed to figure out if this venture would be a success. 
 
 
 ## Results
+
+![overview_data](https://user-images.githubusercontent.com/111243284/205425396-d961591a-9f63-4814-bfd2-89993ab2ed92.png)
+
+
+- There were 26,000 rides
+
 
 <img width="1008" alt="checkout_times_for_all_users" src="https://user-images.githubusercontent.com/111243284/205420472-3977fe9c-46b4-4f57-9b76-9025cd3e2c74.png">
 

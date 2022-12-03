@@ -49,4 +49,4 @@
 
 ## Dashboard
 
-https://public.tableau.com/app/profile/clayton.gossett/viz/Bikesharing_16699333768740/NYCCitiBikeAnalysis
+[link to dashboard](https://public.tableau.com/app/profile/clayton.gossett/viz/Bikesharing_16699333768740/NYCCitiBikeAnalysis)

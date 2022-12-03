@@ -47,3 +47,6 @@
 - Weather data could show the impacts on the number of rides during hot and cold days.
 - Traffic data might also be useful in understanding which areas could see higher volumes of bike usage versus cars.
 
+## Dashboard
+
+https://public.tableau.com/app/profile/clayton.gossett/viz/Bikesharing_16699333768740/NYCCitiBikeAnalysis

@@ -2,7 +2,7 @@
 
 ## Overview
 
-- For this project, I used Jupyter Notebook and Tableau to perform an analysis on the Citi Bike program in New York City. Since I am considering starting a  similar program in Des Moines, Iowa, I needed to figure out if this venture would be a success. 
+- For this project, I used Jupyter Notebook and Tableau to perform an analysis on the Citi Bike program in New York City. Since I am considering starting a  similar program in Des Moines, Iowa, I needed to figure out if this venture would be a success. I also decided to focus on August of 2019 since there is typically more traffic during the summer months.
 
 
 ## Results
@@ -55,6 +55,7 @@
 
 - Weather data could show the impacts on the number of rides during hot and cold days.
 - Traffic data might also be useful in understanding which areas could see higher volumes of bike usage versus cars.
+- Data for other months would also be useful.
 
 ## Dashboard
 

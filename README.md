@@ -18,7 +18,7 @@
 <img width="1008" alt="checkout_times_for_all_users" src="https://user-images.githubusercontent.com/111243284/205420472-3977fe9c-46b4-4f57-9b76-9025cd3e2c74.png">
 
 
-- The majority of checkout times for users was between 4 and 6 minutes.
+- Most of the checkout times for users were for 20 minutes or less.
 
 
 

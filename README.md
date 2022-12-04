@@ -25,7 +25,7 @@
 <img width="1008" alt="checkout_times_by_gender" src="https://user-images.githubusercontent.com/111243284/205420483-3e7a0c8b-7861-4084-aa99-0928504e28e6.png">
 
 
-- Among genders, checkout times for males were the highest.
+- Among genders, checkout times for males were the highest and they also averaged around 20 minutes or less.
 
 
 
